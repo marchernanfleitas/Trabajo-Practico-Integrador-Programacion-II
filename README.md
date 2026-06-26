@@ -74,4 +74,4 @@ src/
 
 - 📁 Código fuente completo (este repositorio)
 - 📄 Documentación técnica en PDF: [Ver documento]([Trabajo Práctico Integrador Programación II.pdf](https://github.com/marchernanfleitas/Trabajo-Practico-Integrador-Programacion-II/blob/baedd3fb1d8a33d2013008f5200825be72bbea7e/Trabajo%20Pr%C3%A1ctico%20Integrador%20Programaci%C3%B3n%20II.pdf))
-- 🎥 Video demostrativo: [Ver video]((https://leautneduar-my.sharepoint.com/:v:/g/personal/marcelo_fleitas_tupad_utn_edu_ar/IQC4KtkWcXPNQK-EigpRpcjKAdkSaPeij5XtCIWid7E5H0Y?e=tUSGT8))
+- 🎥 Video demostrativo: : [Ver video]([https://leautneduar-my.sharepoint.com/:v:/g/personal/marcelo_fleitas_tupad_utn_edu_ar/IQC4KtkWcXPNQK-EigpRpcjKAdkSaPeij5XtCIWid7E5H0Y?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WDHsGM]
